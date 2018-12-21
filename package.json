@@ -1,0 +1,23 @@
+{
+  "name": "dgb-games",
+  "version": "1.0.0",
+  "description": "Bot voor DGB-Games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Melvin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "ffmpeg": "0.0.4",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "s": "^0.1.1",
+    "ytdl-core": "^0.28.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
